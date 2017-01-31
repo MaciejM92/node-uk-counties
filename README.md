@@ -6,8 +6,7 @@ A list of counties within England, Northern Ireland, Scotland and Wales
 
 ## Installation
 
-    npm install uk-counties
-
+    npm install git+https://git@github.com/MaciejM92/node-uk-counties.git
 ## Usage
 
 Below is a simple example for usage:
@@ -22,7 +21,7 @@ var counties = require('uk-counties') // All counties
 ```
 
 ## Source
-http://county-wise.org.uk/counties/
+http://www.mapsofworld.com/united-kingdom/thematic-maps/uk-counties-map.html
 
 ## Licence
 Licensed under the [New BSD License](http://opensource.org/licenses/bsd-license.php)
